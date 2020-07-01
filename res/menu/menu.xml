@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/lyricsMenu"
+        android:icon="@drawable/ic_audiotrack_white_24dp"
+        android:title="@string/lyrics" />
+    <item
+        android:id="@+id/mapMenu"
+        android:icon="@drawable/search"
+        android:title="@string/collect"
+        />
+
+    <item
+        android:id="@+id/songMenu"
+        android:icon="@drawable/ic_headset_white_24dp"
+        android:title="@string/songs" />
+</menu>
