@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Guess The Song</string>
+    <string name="play_button">Play</string>
+    <string name="play_button_description">Play Button to start the game.</string>
+    <string name="classic_mode">Classic</string>
+    <string name="current_mode">Current</string>
+    <string name="rules_button_description">Rules Button to show the rules screen.</string>
+
+    <string name="collected_lyrics">Collected Lyrics</string>
+    <string name="return_button_description">Return button which returns the user to the start screen.</string>
+    <string name="lyrics_collected"><b>%1d</b>\nLyrics Collected</string>
+    <string name="your_points"><b>%1d</b>\nPoints</string>
+    <string name="power"><b>%1d</b>\nPower</string>
+    <string name="number_of_attempts">Number Of Attempts Left: %1d</string>
+    <string name="halve">Halve</string>
+    <string name="point_boost">Point Boost</string>
+
+    <string name="artist">Artist:</string>
+    <string name="album">Album:</string>
+    <string name="song">Song:</string>
+    <string name="released">Released:</string>
+    <string name="genre">Genre:</string>
+    <string name="length">Length:</string>
+
+    <string name="juicy">The Notorious B.I.G. - Juicy</string>
+    <string name="bob">Bob Marley - Buffalo soldier</string>
+    <string name="prince">Prince – “Sign O’ The Times”</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="albumImage">Image of album</string>
+
+
+
+
+    <string name="the_aim">The Aim</string>
+    <string name="collecting_lyrics">Collecting Lyrics</string>
+    <string name="guessing_lyrics">Guessing Lyrics</string>
+    <string name="powers">Powers</string>
+
+    <string name="aim_rule">The aim is to collect lyrics that have been placed around Bay Campus. You will be able to choose lyrics from recent songs (Current) or songs from the past (Classic)</string>
+    <string name="collecting_rule">To collect a lyric you must be within a 10 meter radius of the lyric. Once you are within 10 meters, just double tap on the lyric marker.</string>
+    <string name="guessing_rule">If you know the lyric then you can choose the your answer from 6 possible choices. If you get it right you get points and power value is increased by 1.</string>
+    <string name="power_rule">You can halve the number of guesses using the Halve power and double the points using Point Boost. You start of with a Power Value of 3.</string>
+
+
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="image_rules_description">Rules Image</string>
+    <string name="rule_title">Rule Title</string>
+    <string name="rule_details">Rule details</string>
+    <string name="lets_go">Let\'s Go!</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="collect">Collect</string>
+    <string name="songs">Songs</string>
+    <string name="head_set_image">Headset Image</string>
+    <string name="guess_song">Guess The Song</string>
+    <string name="points_count_image">Points Counter Image</string>
+    <string name="complete_image">Submit answer image</string>
+    <string name="already_halved">You have already used Halve power!</string>
+    <string name="have_no_power">You\'ve used all the Power!</string>
+    <string name="already_boosted">Your attempt is already boosted!</string>
+    <string name="close_button_description">Close Dialog</string>
+    <string name="correct">Correct!</string>
+    <string name="correct_message">You guessed correctly! The Song has been moved into your songs. You can get more information on the song from there. Your power value has also been increased by 1.</string>
+    <string name="ok">OK</string>
+    <string name="attempt_failed">Attempt Failed!</string>
+    <string name="incorrect_answer">Incorrect Answer!!</string>
+    <string name="location_tracking_disabled">Location Permission</string>
+    <string name="please_allow_permissions">Please allow location permission to fetch your current location.</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
